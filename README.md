@@ -85,6 +85,14 @@ NumPy
 
 
 🧪 نمونه تصاویر (Demo)
+![UI]([https://github.com/USERNAME/AI-Plate/assets/123456789/yourimage.png](https://github.com/eh3ano-0/AI-PLATE/blob/main/Descroption/Screenshot%20From%202025-09-25%2009-25-01.png)
+
+![UI]([https://github.com/USERNAME/AI-Plate/assets/123456789/yourimage.png](https://github.com/eh3ano-0/AI-PLATE/blob/main/Descroption/Screenshot%20From%202025-09-25%2010-46-22.png))
+
+![UI]([https://github.com/USERNAME/AI-Plate/assets/123456789/yourimage.png](https://github.com/eh3ano-0/AI-PLATE/blob/main/Descroption/Screenshot%20From%202025-09-25%2010-46-43.png))
+
+
+
 
 
 
