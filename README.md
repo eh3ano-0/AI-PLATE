@@ -86,13 +86,13 @@ NumPy
 
 🧪 نمونه تصاویر (Demo)
 
-![demo](Descroption/ScreenshotFrom2025-09-2509-25-01.png)
+![demo](Descroption/test.png)
 
 
-![demo](Descroption/ScreenshotFrom2025-09-2510-46-22.png)
+![demo](Descroption/test2.png)
 
 
-![demo](Descroption/ScreenshotFrom2025-09-2510-46-43.png)
+![demo](Descroption/test3.png)
 
 
 
